@@ -2,7 +2,9 @@
 
 NGUYEN HOANG THINH
 
-## Available Scripts
+## LINK VIDEO RECORD
+
+https://imgur.com/lz7brzN
 
 In the project directory, you can run:
 
