@@ -1,0 +1,32 @@
+@import "../../variables.scss";
+
+
+.detail-image{
+height: 500px;
+border-radius: 5px;
+
+}
+
+.tag-detail-content{
+   
+    background-color: #{$--antique-white};
+    padding: 5px;
+    border-radius: #{$--border-radius};
+}
+.imdb-point{
+background-color:  #{$--gold};
+padding: 5px;
+border-radius: #{$--border-radius};
+
+}
+
+.production-conpanies{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.avatar-production{
+    border: 1px#d6d6d6 !important;
+}
+// style={{ height: '500px' }}

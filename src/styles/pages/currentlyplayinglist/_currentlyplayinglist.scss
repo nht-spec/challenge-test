@@ -1,0 +1,57 @@
+@import "../../variables.scss";
+
+
+.movie-poster{
+    width: 100%;
+    border-radius: #{$--border-radius};
+    border: #{$--border-movie-poster};
+    box-shadow: #{$--box-shadow-movie-poster}
+}
+
+.list-item{
+    cursor: pointer;
+    transition: all 1s;
+    border-radius: #{$--border-radius};
+    padding: 10px 0;
+}
+
+.list-item:hover{
+    background-color:#{$--white-smoke};
+    box-shadow: #{$--box-shadow-list-item}
+}
+
+.movie-title{
+    color: #{$--dodger-blue} !important;
+   
+}
+
+.skeleton-avatar{
+    margin-right: 10px;
+}
+
+.pagination-currently-list-top{
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 10px !important;
+    flex-wrap: wrap;
+
+}
+
+.pagination-currently-list-bottom{
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+
+}
+
+
+@media only screen and (max-width: #{ $min-width }) {
+    // .tag{
+    //         justify-content: center !important;
+
+    //         .tag-release{
+    //             // margin-right: 60px !important;
+    //         }
+    // }
+  }
+  

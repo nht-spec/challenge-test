@@ -1,0 +1,7 @@
+//Api key for config
+export const API_KEY = {
+	KEY: 'c5b77cc562fd92844c10e68b26845b66',
+	ACCESS_TOKEN:
+		'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjNWI3N2NjNTYyZmQ5Mjg0NGMxMGU2OGIyNjg0NWI2NiIsInN1YiI6IjYyOTE4NGU1NzZlZWNmMDA1MDkyOTJjNSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.mb2aCn2rQTl3AHFDVNLPTl-FYODQJ5IAA7vcoZMqs6A',
+	IMAGE_URL: 'https://image.tmdb.org/t/p/w500',
+};

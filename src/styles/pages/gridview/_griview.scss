@@ -1,0 +1,10 @@
+.cart-meta-grid-layout {
+    // white-space: nowrap; 
+    height: 250px !important;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;  
+    overflow: hidden;
+
+}
+
